@@ -22,6 +22,10 @@ import java.util.Date;
  * This POJO holds the information regarding a single transaction.
  */
 public class Transaction {
+
+    public Transaction() {
+
+    }
     private Date date;
 
     public Date getDate() {
