@@ -16,7 +16,7 @@ public class DBhandler extends SQLiteOpenHelper {
     private static final int DATABASE_VERSION = 1;
 
     // Database Name
-    private static final String DATABASE_NAME = "dil.db";
+    private static final String DATABASE_NAME = "130578F.db";
 
     private static DBhandler DBinstance = null;
 
